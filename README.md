@@ -2,7 +2,7 @@
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
-- :books: &nbsp; <strong>Seus interesses</strong>
+- :books: &nbsp; <strong>Buscar Conhecimento;</strong>
 - 🎓 &nbsp; <strong>Faculdade Senac PE - ADS;</strong>
 - 🎓 &nbsp; <strong>UFRPE - Ciência da Computação;</strong>
 - :computer: &nbsp; <strong>Estudando no momento: JavaScript, SQL;</strong>
