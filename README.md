@@ -1,4 +1,4 @@
-<h2> Oi gente, eu sou o <strong>Pedro Luiz</strong>. <img src="https://media.tenor.com/PqNpZlQEcyQAAAAM/groudon.gif" width="50"></h2>
+<h2> Oi gente, eu sou o <strong>Pedro Luiz</strong>. <img src="https://media.tenor.com/PqNpZlQEcyQAAAAM/groudon.gif" width="60"></h2>
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
