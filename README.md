@@ -3,8 +3,9 @@
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
 - :books: &nbsp; <strong>Seus interesses</strong>
-- 🎓 &nbsp; <strong>Sua faculdade</strong>
-- :computer: &nbsp; <strong>O que você está estudando no momento</strong>
+- 🎓 &nbsp; <strong>Faculdade Senac PE - ADS;</strong>
+- 🎓 &nbsp; <strong>UFRPE - Ciência da Computação;</strong>
+- :computer: &nbsp; <strong>Estudando no momento: JavaScript, SQL;</strong>
 
 <h3>:atom: Competências Técnicas: </h3>
 
@@ -35,7 +36,7 @@
 
 </br>
 <div align="center">
-<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pedroLuizLima"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Duduxs&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pedroLuizLima"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pedroLuizLima&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
 </a>
 </div>
 
