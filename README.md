@@ -1,4 +1,4 @@
-<h2> Oi gente, eu sou o <strong>Pedro Luiz</strong>. <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgroudon-pokemon-pokemon-groudon-eruption-groudon-uses-eruption-gif-18086095815481863122&psig=AOvVaw2yLOCD1IM1OakJfC5DhYjZ&ust=1725537121413000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjgwu6cqYgDFQAAAAAdAAAAABAJ" width="25"></h2>
+<h2> Oi gente, eu sou o <strong>Pedro Luiz</strong>. <img src="https://media.tenor.com/PqNpZlQEcyQAAAAM/groudon.gif" width="25"></h2>
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
