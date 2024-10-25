@@ -5,7 +5,7 @@
 - :books: &nbsp; <strong>Buscar Conhecimento;</strong>
 - 🎓 &nbsp; <strong>Faculdade Senac PE - ADS;</strong>
 - 🎓 &nbsp; <strong>UFRPE - Ciência da Computação;</strong>
-- :computer: &nbsp; <strong>Estudando no momento: JavaScript, SQL;</strong>
+- :computer: &nbsp; <strong>Estudando no momento: JavaScript, SQL, PHP;</strong>
 
 <h3>:atom: Competências Técnicas: </h3>
 
