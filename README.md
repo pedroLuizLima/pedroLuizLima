@@ -13,7 +13,8 @@
 - 💻 &nbsp; <strong>C;</strong>
 - 🌐 &nbsp; <strong>Desktop/Web;</strong>
 - 🛢 &nbsp; <strong>SQL;</strong>
-- 🔧 &nbsp; <strong>VS Code, Replit;</strong>
+- 🔧 &nbsp; <strong>VS Code, Git/GitHub;</strong>
+- 🔧 &nbsp; <strong>Scrum;</strong>
 
 
 <div align="center">
