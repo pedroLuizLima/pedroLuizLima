@@ -4,16 +4,18 @@
 
 - :books: &nbsp; <strong>Buscar Conhecimento;</strong>
 - 🎓 &nbsp; <strong>Faculdade Senac PE - ADS;</strong>
-- 🎓 &nbsp; <strong>UFRPE - Ciência da Computação;</strong>
-- :computer: &nbsp; <strong>Estudando no momento: JavaScript, SQL, PHP;</strong>
+- :computer: &nbsp; <strong>Estudando no momento: Java, JavaScript, MySQL, HTML, CSS;</strong>
 
 <h3>:atom: Competências Técnicas: </h3>
 
+- 💻 &nbsp; <strong>Java;</strong>
 - 💻 &nbsp; <strong>JavaScript;</strong>
 - 💻 &nbsp; <strong>C;</strong>
+- 💻 &nbsp; <strong>HTML;</strong>
+- 💻 &nbsp; <strong>CSS;</strong>
 - 🌐 &nbsp; <strong>Desktop/Web;</strong>
-- 🛢 &nbsp; <strong>SQL;</strong>
-- 🔧 &nbsp; <strong>VS Code, Git/GitHub;</strong>
+- 🛢 &nbsp; <strong>MySQL;</strong>
+- 🔧 &nbsp; <strong>VS Code, IntelliJ, Git/GitHub;</strong>
 - 🔧 &nbsp; <strong>Scrum;</strong>
 
 
